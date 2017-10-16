@@ -741,6 +741,7 @@ footer a:hover {
 
   #menubar {
     box-shadow: none;
+    width:100%;
   }
  main#panel {
   display:block;
@@ -965,6 +966,7 @@ footer a:hover {
 
       footer {
         height:320px;
+        width:100%;
         padding-top:29px;
 
     }
@@ -1131,3 +1133,4 @@ footer a:hover {
   }
 
   }
+
