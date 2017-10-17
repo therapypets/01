@@ -1029,6 +1029,10 @@ footer a:hover {
     width:400px;
   }
 
+  #footer {
+    width:100%;
+  }
+
 }
 
 
@@ -1036,7 +1040,7 @@ footer a:hover {
 @media only screen and (max-width: 520px) {
 
 #content {
-    width:100%;
+    width:94%;
     min-width:290px;
     margin-left:5%;
 }
@@ -1134,3 +1138,8 @@ footer a:hover {
 
   }
 
+* {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+}
