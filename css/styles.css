@@ -49,6 +49,9 @@ a:active {
     transition: 0.5s;
 }
 
+#menu ul li {
+  transition: 0.5s;
+}
 
 button.toggle-button {
     color: black;
